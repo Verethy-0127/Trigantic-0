@@ -1,0 +1,10 @@
+ShakeTune_results/belts/*.csv
+ShakeTune_results/belts/*.png
+ShakeTune_results/inputshaper/*.csv
+ShakeTune_results/inputshaper/*.png
+ShakeTune_results/vibrtaions/*.csv
+ShakeTune_results/vibrations/*.png
+ShakeTune_results/static_freq/*.png
+ShakeTune_results/static_freq/*
+ShakeTune_results/static_freq/*.png
+ShakeTune_results/static_freq/*.png
